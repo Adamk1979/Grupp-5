@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "latest",
+    "connect-mongo": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "mongodb": "latest",
+    "mongoose": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
